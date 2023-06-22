@@ -1,0 +1,4 @@
+#ifndef AMDPROCESSOR_H
+#define AMDPROCESSOR_H
+
+#endif // AMDPROCESSOR_H
